@@ -14,7 +14,8 @@ let option = {
         "STRET"
     ],
     discord_invite_link: "https://discord.com/invite/cHJXGs3Fw9",
+    group_invite_link: "https://chat.whatsapp.com/Cvdc0XLc3hv9vMJCCmiHtt",
+    whatsapp_nomor_link: "wa.me/628988395933",
     ip_address: "152.42.243.202",
     host_for_android: "https://www.mediafire.com/file/xrcew7drqxnps6z/LimuPS.txt/file"
 }
-
